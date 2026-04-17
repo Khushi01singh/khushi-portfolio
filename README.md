@@ -6,6 +6,11 @@ A high-performance, minimalist 3D portfolio built with **Next.js 14**, featuring
 
 ---
 
+## 📊 GitHub Activity
+![Khushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khushi01singh&show_icons=true&theme=tokyonight)
+
+---
+
 ## 🛠️ Tech Stack
 
 | Library | Purpose |
@@ -39,10 +44,6 @@ khushi-portfolio/
 │   ├── Research.tsx         # Research paper spotlight
 │   └── Footer.tsx           # Social links & contact
 └── public/               # Assets & Resume PDF
-
----
-
----
 
 ## 📬 Let's Connect
 
