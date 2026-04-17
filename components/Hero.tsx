@@ -123,7 +123,7 @@ export default function Hero() {
           {/* ── Place your resume PDF at /public/Khushi_Singh_Resume.pdf ── */}
           <a
             href="/Khushi-Software-Engineer-Resume.pdf"
-download="Khushi-Software-Engineer-Resume.pdf"
+              download="Khushi-Software-Engineer-Resume.pdf"
             style={{
               padding: '12px 28px',
               background: 'transparent',

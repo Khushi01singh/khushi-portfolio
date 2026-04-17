@@ -1,12 +1,12 @@
 Place your resume PDF file here as:
 
-  Khushi_Singh_Resume.pdf
+  Khushi-Software-Engineer-Resume.pdf
 
-The Resume download button in Hero.tsx points to /Khushi_Singh_Resume.pdf
+The Resume download button in Hero.tsx points to /Khushi-Software-Engineer-Resume.pdf
 which Next.js serves from this /public folder.
 
 Steps:
 1. Export your resume as PDF
-2. Rename it to: Khushi_Singh_Resume.pdf
+2. Rename it to: Khushi-Software-Engineer-Resume.pdf
 3. Drop it in this /public folder
 4. The download button will work automatically
