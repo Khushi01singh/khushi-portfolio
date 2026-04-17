@@ -44,3 +44,13 @@ khushi-portfolio/
 │   ├── Research.tsx         # Research paper spotlight
 │   └── Footer.tsx           # Social links & contact
 └── public/               # Assets & Resume PDF
+```
+
+📬 Let's Connect
+Portfolio: Visit My Live Site
+
+LinkedIn: Connect on LinkedIn
+
+Email: khushisinghara268@gmail.com
+
+<p align="center">Created with ❤️ by Khushi Singh</p>
