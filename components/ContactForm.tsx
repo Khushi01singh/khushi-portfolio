@@ -6,7 +6,7 @@ import Magnetic from './Magnetic'
 
 // ─── SETUP ───────────────────────────────────────────────────────────────────
 const EMAILJS_SERVICE_ID  = 'service_f74v0t5'
-const EMAILJS_TEMPLATE_ID = '3lri0c3'
+const EMAILJS_TEMPLATE_ID = 'template_zmzs62m'
 const EMAILJS_PUBLIC_KEY  = 'wxuHSUBCNLSo-w0Z_'
 // ─────────────────────────────────────────────────────────────────────────────
 
