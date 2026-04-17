@@ -25,10 +25,12 @@ export default function CustomCursor() {
 
     function animate() {
       rx.current += (mx - rx.current) * 0.18
-      ry.current += (my - ry.current) * 0.18
-      ring.style.left = rx.current + 'px'
-      ring.style.top = ry.current + 'px'
-      rafId.current = requestAnimationFrame(animate)
+ry.current += (my - ry.current) * 0.18
+if (ring) {
+  ring.style.left = rx.current + 'px'
+  ring.style.top = ry.current + 'px'
+}
+rafId.current = requestAnimationFrame(animate)
     }
 
     rafId.current = requestAnimationFrame(animate)
