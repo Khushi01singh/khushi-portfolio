@@ -47,9 +47,9 @@ khushi-portfolio/
 ```
 
 📬 Let's Connect
-Portfolio: Visit My Live Site
+Portfolio:  [khushi-portfolio-tau.vercel.app](https://khushi-portfolio-tau.vercel.app)
 
-LinkedIn: Connect on LinkedIn
+LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/khushi-singh-tech/)
 
 Email: khushisinghara268@gmail.com
 
