@@ -47,9 +47,11 @@ khushi-portfolio/
 
 ## 📬 Let's Connect
 
-- **Portfolio:** [Visit My Live Site](https://khushi-portfolio-tau.vercel.app)
-- **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/khushi-singh-tech/)
-- **Email:** [khushisinghara268@gmail.com](mailto:khushisinghara268@gmail.com)
+<ul>
+  <li><strong>Portfolio:</strong> <a href="https://khushi-portfolio-tau.vercel.app">Visit My Live Site</a></li>
+  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/khushi-singh-tech/">Connect on LinkedIn</a></li>
+  <li><strong>Email:</strong> <a href="mailto:khushisinghara268@gmail.com">khushisinghara268@gmail.com</a></li>
+</ul>
 
 ---
-*Created with ❤️ by Khushi Singh*
+<p align="center">Created with ❤️ by Khushi Singh</p>
