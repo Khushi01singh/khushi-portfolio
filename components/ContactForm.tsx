@@ -5,7 +5,6 @@ import { motion } from 'framer-motion'
 import Magnetic from './Magnetic'
 
 // ─── SETUP: Replace these 3 values from emailjs.com (free account) ───────────
-// Line 7, 8 aur 9 par ye update karein:
 const EMAILJS_SERVICE_ID  = 'service_5j8n72j'
 const EMAILJS_TEMPLATE_ID = '3lri0c3'
 const EMAILJS_PUBLIC_KEY  = 'wxuHSUBCNLSo-w0Z_'
