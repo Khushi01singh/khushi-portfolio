@@ -122,8 +122,8 @@ export default function Hero() {
         <Magnetic>
           {/* ── Place your resume PDF at /public/Khushi_Singh_Resume.pdf ── */}
           <a
-            href="/Khushi_Singh_Resume.pdf"
-            download="Khushi_Singh_Resume.pdf"
+            href="/Khushi-Software-Engineer-Resume.pdf"
+download="Khushi-Software-Engineer-Resume.pdf"
             style={{
               padding: '12px 28px',
               background: 'transparent',
