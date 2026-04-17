@@ -37,12 +37,13 @@ export default function ContactForm() {
     try {
       // Dynamically load EmailJS so it doesn't affect bundle
       const emailjs = (await import('@emailjs/browser')).default
-      await emailjs.send(
-        EMAILJS_SERVICE_ID,
-        EMAILJS_TEMPLATE_ID,
-        { from_name: form.name, from_email: form.email, message: form.message },
-        EMAILJS_PUBLIC_KEY
-      )
+      // Is block ko replace karo:
+await emailjs.send(
+  EMAILJS_SERVICE_ID,
+  EMAILJS_TEMPLATE_ID,
+  { name: form.name, email: form.email, message: form.message }, // Variable names dashboard se match kar diye
+  EMAILJS_PUBLIC_KEY
+)
       setStatus('success')
       setForm({ name: '', email: '', message: '' })
     } catch {
