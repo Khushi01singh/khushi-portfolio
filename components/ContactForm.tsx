@@ -168,12 +168,7 @@ export default function ContactForm() {
             </p>
           )}
 
-          {/* Setup reminder — remove after configuring EmailJS */}
-          {EMAILJS_PUBLIC_KEY === 'YOUR_PUBLIC_KEY' && (
-            <p style={{ fontSize: '11px', color: '#7a7a9d', marginTop: '4px', borderTop: '1px solid rgba(255,255,255,0.06)', paddingTop: '12px' }}>
-              ⚙️ Dev note: Add your EmailJS keys in <code style={{ color: '#6c63ff' }}>ContactForm.tsx</code> to activate email sending.
-            </p>
-          )}
+          
         </div>
       </motion.div>
     </section>
