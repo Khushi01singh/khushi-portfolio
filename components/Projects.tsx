@@ -29,7 +29,7 @@ const projects = [
     desc: 'ML model forecasting HN post engagement with 85%+ accuracy on 10K+ posts by analyzing timing, metadata and statistical features.',
     tags: ['Python', 'Scikit-learn', 'Pandas', 'FastAPI'],
     metrics: [{ val: '85%+', key: 'Accuracy' }, { val: '10K+', key: 'Posts' }, { val: '40%', key: 'Better Rates' }],
-    link: null,
+    link: 'https://khushi-hn-predictor.netlify.app/',
   },
   {
     icon: '🛍️',
@@ -49,6 +49,24 @@ const projects = [
     metrics: [{ val: '100%', key: 'Private' }, { val: '600+', key: 'Data Pairs' }, { val: '40%', key: 'Faster Retrieval' }],
     link: 'https://pairvault.netlify.app/',
   },
+  {
+  icon: '🛒',
+  iconBg: 'rgba(108,99,255,0.15)',
+  title: 'Nexus: Full-Stack E-commerce',
+  desc: 'Complete e-commerce platform with storefront, admin dashboard, order management & auth. Features real-time order creation, product management and live status tracking.',
+  tags: ['React 18', 'CSS', 'Admin Dashboard', 'Auth'],
+  metrics: [{ val: '8+', key: 'Products' }, { val: '2', key: 'User Roles' }, { val: '0', key: 'Build Step' }],
+  link: 'https://nexus-omega-one-82.vercel.app/',
+},
+{
+  icon: '📄',
+  iconBg: 'rgba(0,245,212,0.12)',
+  title: 'Sandbox Docgen Engine',
+  desc: 'AI-powered document generation system using NLP to automate structured document creation. Implementation of my published IJLTEMAS research — reduces manual documentation time by 40%.',
+  tags: ['Python', 'NLP', 'Streamlit', 'React', 'Node.js'],
+  metrics: [{ val: '40%', key: 'Less Manual Work' }, { val: 'NLP', key: 'AI Powered' }, { val: '1', key: 'Published Paper' }],
+  link: 'https://sandbox-6ph7xuyndiye8t3dna43wj.streamlit.app/',
+},
 ]
 
 export default function Projects() {
