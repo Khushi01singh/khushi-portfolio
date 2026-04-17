@@ -4,7 +4,7 @@ import { useEffect, useRef, useState } from 'react'
 import { motion } from 'framer-motion'
 
 // ─── Set your GitHub username here ───────────────────────────────────────────
-const GITHUB_USERNAME = 'khushisingh'
+const GITHUB_USERNAME = 'khushi01singh'
 // ─────────────────────────────────────────────────────────────────────────────
 
 interface GitHubStats {
