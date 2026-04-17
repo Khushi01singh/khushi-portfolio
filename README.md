@@ -44,14 +44,3 @@ khushi-portfolio/
 │   ├── Research.tsx         # Research paper spotlight
 │   └── Footer.tsx           # Social links & contact
 └── public/               # Assets & Resume PDF
-
-## 📬 Let's Connect
-
-<ul>
-  <li><strong>Portfolio:</strong> <a href="https://khushi-portfolio-tau.vercel.app">Visit My Live Site</a></li>
-  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/khushi-singh-tech/">Connect on LinkedIn</a></li>
-  <li><strong>Email:</strong> <a href="mailto:khushisinghara268@gmail.com">khushisinghara268@gmail.com</a></li>
-</ul>
-
----
-<p align="center">Created with ❤️ by Khushi Singh</p>
